@@ -12,7 +12,7 @@ export const useAuth = () => {
 };
 
 // Set Axios base URL globally (adjust for production)
-axios.defaults.baseURL = import.meta.env.VITE_BACKEND_URL || 'https://a1server.onrender.com';
+axios.defaults.baseURL = 'https://a1server.onrender.com';
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
