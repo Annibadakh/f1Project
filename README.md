@@ -173,16 +173,7 @@ This will:
 | **Researcher**    | View inventory, request stock     |
 | **Engineer**      | Partial access to stock           |
 
----
 
-## 📸 Screenshots / Demos
-
-Add screenshots or GIFs of:
-- Dashboard with notifications
-- Add/Edit component
-- Logs section
-- Role-based views
-- Email notification sample
 
 ---
 
@@ -207,7 +198,6 @@ lims-inventory/
 - QR code support for components
 - Real-time WebSocket notifications
 - Component request/approval system
-- Stock analytics dashboard
 - PDF invoice generation and export
 
 ---
