@@ -55,6 +55,7 @@ cd lims-inventory
 
 ### 2. Install dependencies
 ```bash
+cd frontend
 npm install
 cd server
 npm install
