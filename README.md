@@ -4,6 +4,11 @@ A full-stack, MERN-based inventory management solution designed to streamline co
 
 ---
 
+## 🌐 Live Demo
+🚀 **[View Live Application](https://f1lims.netlify.app/)**
+
+
+
 ## 🚀 Features
 
 ### 📦 Inventory Management
