@@ -9,7 +9,9 @@ import {
   Package,
   AlertTriangle,
   Clock,
-  Eye
+  Eye,
+    IndianRupee
+
 } from 'lucide-react';
 import { formatDistanceToNow } from 'date-fns';
 
@@ -95,9 +97,9 @@ import { formatDistanceToNow } from 'date-fns';
 
             {/* Price */}
             <div className="flex items-center space-x-2">
-              <DollarSign className="w-4 h-4 text-gray-400" />
+              <  IndianRupee className="w-4 h-4 text-gray-400" />
               <span className="text-sm text-gray-600 dark:text-gray-400">
-                ${component.unit_price}
+                {component.unit_price}
               </span>
             </div>
 
